@@ -6,11 +6,11 @@
 **Lesson 1 - Intro to fastai and PyTorch:**
 * Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0)
 * Matrix calculus
-* fastai workflow
 * PyTorch workflow: Data -> Tensor -> Dataset -> Dataloader -> Network Training
 * PyTorch building blocks, e.g., torch.nn, torch.nn.functional, etc.
 * https://pytorch.org/tutorials/beginner/nn_tutorial.html
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
+* fastai workflow
 <br><br>
 **Lesson 2 - ?:**
 * ?
