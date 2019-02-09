@@ -45,7 +45,9 @@
 * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 <br><br>
 **Possible presentation topics:**
-* CNN
+* CNNs in general
+* ResNets
+* 1x1 conv
 * LSTM unit
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
 <br><br>
@@ -54,5 +56,10 @@
 * [Histopathologic Cancer Detection on Kaggle](https://www.kaggle.com/c/histopathologic-cancer-detection)
 <br><br>
 **Selected publications:**
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)](https://arxiv.org/abs/1409.1556)
+* [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
+* [Network In Network (1x1 conv)](https://arxiv.org/abs/1312.4400)
+* [Going deeper with convolutions (Inception)](https://arxiv.org/abs/1409.4842)
+* ???
 * Everything on https://distill.pub and https://colah.github.io
 
