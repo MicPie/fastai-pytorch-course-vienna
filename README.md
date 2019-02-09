@@ -45,6 +45,8 @@
 * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 <br><br>
 **Possible presentation topics:**
+* CNN
+* LSTM unit
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
 <br><br>
 **Possible projects:**
