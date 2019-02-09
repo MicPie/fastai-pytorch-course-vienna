@@ -25,10 +25,17 @@
 **Lesson 7 - ?:**
 * ?
 <br><br>
-**General ressources:**<br>
+**General PyTorch Deep Learning ressources:**<br>
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)<br>
 * [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)<br>
 * [PyTorch Docs](https://pytorch.org/docs)<br>
 * [Udacity Deep Learning PyTorch Notebooks](https://github.com/udacity/deep-learning-v2-pytorch)<br>
 * [CMU Deep Learning Lecture Notes](http://deeplearning.cs.cmu.edu)<br>
 * [CMU Deep Learning Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)<br>
+<br><br>
+**Mathematics:**
+* [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (German version has a very good visualisation)
+* [Animated matrix multiplication](http://matrixmultiplication.xyz)
+<br><br>
+**Selected publications:**
+
