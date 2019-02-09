@@ -4,6 +4,8 @@
 * [Fast.ai MOOC Material](https://course.fast.ai)<br><br>
 
 **Lesson 1 - Intro to fastai an PyTorch:**
+* fastai workflow
+* PyTorch workflow: Data -> Tensor -> Dataset -> Dataloader -> Network Training
 * https://pytorch.org/tutorials/beginner/nn_tutorial.html
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 <br><br>
