@@ -37,7 +37,7 @@
 * [Udacity Deep Learning PyTorch Notebooks](https://github.com/udacity/deep-learning-v2-pytorch)<br>
 * [CMU Deep Learning Lecture Notes](http://deeplearning.cs.cmu.edu)<br>
 * [CMU Deep Learning Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)<br>
-* [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum)
+* [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 <br><br>
 **Mathematics:**
 * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (German version has a very good visualisation)
