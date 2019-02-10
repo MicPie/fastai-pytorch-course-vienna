@@ -1,7 +1,8 @@
 # Fastai v1 &amp; PyTorch v1 Course in Vienna
 This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html).<br>
 * [Fast.ai MOOC Details](https://www.fast.ai/2019/01/24/course-v3/)<br>
-* [Fast.ai MOOC Material](https://course.fast.ai)<br><br>
+* [Fast.ai MOOC Material](https://course.fast.ai)<br>
+* [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)<br><br>
 
 **Lesson 1 - Intro to fastai and PyTorch:**
 * Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0)
