@@ -4,29 +4,33 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Fast.ai MOOC Material](https://course.fast.ai)<br>
 * [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)<br><br>
 
-**Lesson 1 - Intro to fastai and PyTorch:**
-* Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0)
+
+**Preparation:**
 * Basic matrix calculus:
-  * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (German version has  better visualisations)
+  * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
-* PyTorch intro:
+<br><br>
+
+**Lesson 1 - Intro to fastai and PyTorch:**
+* Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0); general function approximation
+* PyTorch intro and building blocks:
   * [Tensors and autograd picture](https://github.com/pytorch/pytorch)
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
+   * torch.Tensor & Co. ([Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU))
+   * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+   * torch.nn.functional
+   * torch.optim
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-* PyTorch building blocks:
-  * torch.Tensor & Co. ([Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU))
-  * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
-  * torch.nn.functional
-  * torch.optim
 * PyTorch debugging:
   * [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
   * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger)
-* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
-* fastai workflow
 <br><br>
 
 **Lesson 2 - ?:**
+* ?
+* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
+* fastai workflow
 * ?
 <br><br>
 
