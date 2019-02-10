@@ -29,8 +29,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * ?
 <br><br>
 **Lesson 4 - ?:**
-* ?
-<br><br>
+* ?<br><br>
+
 **Lesson 5 - ?:**
 * ?
 <br><br>
