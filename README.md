@@ -6,18 +6,19 @@
 **Lesson 1 - Intro to fastai and PyTorch:**
 * Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0)
 * Basic matrix calculus:
- * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (German version has a very good visualisation)
- * [Animated matrix multiplication](http://matrixmultiplication.xyz)
-* [PyTorch intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) ([link to tensor and autograd picture](https://github.com/pytorch/pytorch))
-* PyTorch workflow: Data -> Tensor -> Dataset -> Dataloader -> Network Training
+  * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (German version has a very good visualisation)
+  * [Animated matrix multiplication](http://matrixmultiplication.xyz)
+* PyTorch intro:
+  * [Tensors and autograd picture](https://github.com/pytorch/pytorch))
+  * PyTorch workflow: Data -> Tensor -> Dataset -> Dataloader -> Network Training
+  * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * PyTorch building blocks:
- * torch.nn
- * torch.nn.functional
+  * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+  * torch.nn.functional
 * PyTorch debugging:
   * [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
   * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger), etc.
-* https://pytorch.org/tutorials/beginner/nn_tutorial.html
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 * fastai workflow
 <br><br>
