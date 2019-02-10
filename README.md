@@ -6,6 +6,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 **Preparation:**
+* Basic intro to deep learning ???
 * Basic matrix calculus:
   * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
