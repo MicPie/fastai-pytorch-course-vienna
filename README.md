@@ -22,24 +22,31 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 * fastai workflow
 <br><br>
+
 **Lesson 2 - ?:**
 * ?
 <br><br>
+
 **Lesson 3 - ?:**
 * ?
 <br><br>
+
 **Lesson 4 - ?:**
-* ?<br><br>
+* ?
+<br><br>
 
 **Lesson 5 - ?:**
 * ?
 <br><br>
+
 **Lesson 6 - ?:**
 * ?
 <br><br>
+
 **Lesson 7 - ?:**
 * ?
 <br><br>
+
 **General PyTorch Deep Learning ressources:**<br>
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)<br>
 * [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)<br>
@@ -49,13 +56,16 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [CMU Deep Learning Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)<br>
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 <br><br>
-**Mathematics:**
-* [THE deep learning bok](https://www.deeplearningbook.org)
+
+**Deep Learning:**
+* [THE deep learning book](https://www.deeplearningbook.org)
 * ???
 <br><br>
+
 **Mathematics:**
 * ???
 <br><br>
+
 **Selected publications:**
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)](https://arxiv.org/abs/1409.1556)
 * [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
@@ -64,6 +74,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * ???
 * Everything on https://distill.pub and https://colah.github.io
 <br><br>
+
 **Possible presentation topics:**
 * CNNs in general
 * ResNets
@@ -71,10 +82,12 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * LSTM unit
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
 <br><br>
+
 **Possible projects:**
 * Tensorboard visualisation for fastai with fastai callback, including 2D visualisations for CNNs ([see notebook](https://github.com/MicPie/fastai_course_v3/blob/master/TBLogger_v2.ipynb))
 * [Histopathologic Cancer Detection on Kaggle](https://www.kaggle.com/c/histopathologic-cancer-detection)
 <br><br>
+
 **Learning tips:**
 * [10 Top Ideas to Help Your Learning & 10 Pitfalls to Avoid in Your Learning](https://barbaraoakley.com/wp-content/uploads/2018/02/10-Top-Ideas-to-Help-Your-Learning-and-10-Pitfalls-1.pdf) (from the ["Learning how to learn"](https://www.coursera.org/learn/learning-how-to-learn) course)
 * Use spaced repetition to memorize important concepts and APIs: [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html), [Spaced repitition in detail](https://www.gwern.net/Spaced-repetition), [Anki spaced repitition flashcard app](https://apps.ankiweb.net)
