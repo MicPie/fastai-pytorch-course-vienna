@@ -5,10 +5,14 @@
 
 **Lesson 1 - Intro to fastai and PyTorch:**
 * Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0)
-* Matrix calculus
+* Basic matrix calculus:
+ * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (German version has a very good visualisation)
+ * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 * [PyTorch intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) ([link to tensor and autograd picture](https://github.com/pytorch/pytorch))
 * PyTorch workflow: Data -> Tensor -> Dataset -> Dataloader -> Network Training
-* PyTorch building blocks, e.g., torch.nn, torch.nn.functional, etc.
+* PyTorch building blocks:
+ * torch.nn
+ * torch.nn.functional
 * PyTorch debugging:
   * [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
@@ -45,8 +49,7 @@
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 <br><br>
 **Mathematics:**
-* [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (German version has a very good visualisation)
-* [Animated matrix multiplication](http://matrixmultiplication.xyz)
+* ???
 <br><br>
 **Possible presentation topics:**
 * CNNs in general
