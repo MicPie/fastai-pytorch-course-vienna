@@ -11,7 +11,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 * PyTorch intro:
   * [Tensors and autograd picture](https://github.com/pytorch/pytorch)
-  * PyTorch workflow: Data -> Tensor -> Dataset -> Dataloader -> Network Training
+  * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * PyTorch building blocks:
   * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
