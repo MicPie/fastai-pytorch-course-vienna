@@ -18,7 +18,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * PyTorch debugging:
   * [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
-  * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger), etc.
+  * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger)
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 * fastai workflow
 <br><br>
