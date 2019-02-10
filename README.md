@@ -1,8 +1,7 @@
 # Fastai v1 &amp; PyTorch v1 Course in Vienna
 This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html).<br>
 * [Fast.ai MOOC Details](https://www.fast.ai/2019/01/24/course-v3/)<br>
-* [Fast.ai MOOC Material](https://course.fast.ai)<br>
-Please feel free to improve this page!<br><br>
+* [Fast.ai MOOC Material](https://course.fast.ai)<br><br>
 
 **Lesson 1 - Intro to fastai and PyTorch:**
 * Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0)
@@ -10,7 +9,7 @@ Please feel free to improve this page!<br><br>
   * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (German version has  better visualisations)
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 * PyTorch intro:
-  * [Tensors and autograd picture](https://github.com/pytorch/pytorch))
+  * [Tensors and autograd picture](https://github.com/pytorch/pytorch)
   * PyTorch workflow: Data -> Tensor -> Dataset -> Dataloader -> Network Training
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * PyTorch building blocks:
