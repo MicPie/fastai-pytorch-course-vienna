@@ -67,19 +67,19 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 <br><br>
 
 **Selected publications:**
-* [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)](https://arxiv.org/abs/1409.1556)
-* [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
-* [Network In Network (1x1 conv)](https://arxiv.org/abs/1312.4400)
-* [Going deeper with convolutions (Inception)](https://arxiv.org/abs/1409.4842)
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG network)](https://arxiv.org/abs/1409.1556)
+* [Deep Residual Learning for Image Recognition (ResNet network)](https://arxiv.org/abs/1512.03385)
+* [Network In Network (1x1 convolutions)](https://arxiv.org/abs/1312.4400)
+* [Going deeper with convolutions (Inception network)](https://arxiv.org/abs/1409.4842)
 * ???
-* Everything on https://distill.pub and https://colah.github.io
+* Everything on https://distill.pub and https://colah.github.io.
 <br><br>
 
 **Possible presentation topics:**
-* CNNs in general
-* ResNets
-* 1x1 conv
-* LSTM unit
+* CNN ([Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) and [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/))
+* ResNets & DenseNets (theory, PyTorch code, loss function shape)
+* 1x1 convolutions
+* LSTM unit ([Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/))
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
 <br><br>
 
@@ -90,4 +90,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 **Learning tips:**
 * [10 Top Ideas to Help Your Learning & 10 Pitfalls to Avoid in Your Learning](https://barbaraoakley.com/wp-content/uploads/2018/02/10-Top-Ideas-to-Help-Your-Learning-and-10-Pitfalls-1.pdf) (from the ["Learning how to learn"](https://www.coursera.org/learn/learning-how-to-learn) course)
-* Use spaced repetition to memorize important concepts and APIs: [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html), [Spaced repitition in detail](https://www.gwern.net/Spaced-repetition), [Anki spaced repitition flashcard app](https://apps.ankiweb.net)
+* Use spaced repetition to memorize important concepts and APIs:
+ * [Introduction to augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
+ * [Spaced repitition in detail](https://www.gwern.net/Spaced-repetition)
+ * [Anki spaced repitition flashcard app](https://apps.ankiweb.net)
