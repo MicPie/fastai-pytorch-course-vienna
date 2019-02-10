@@ -16,10 +16,10 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * PyTorch intro and building blocks:
   * [Tensors and autograd picture](https://github.com/pytorch/pytorch)
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
-        * torch.Tensor & Co. ([Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU))
-        * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
-        * torch.nn.functional
-        * torch.optim
+  * torch.Tensor & Co. ([Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU))
+  * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+  * torch.nn.functional
+  * torch.optim
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * PyTorch debugging:
   * [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
