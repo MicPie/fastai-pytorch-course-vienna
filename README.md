@@ -1,7 +1,9 @@
 # Fastai v1 &amp; PyTorch v1 Course in Vienna
-[Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html)<br>
+This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html).<br>
+Fast.ai MOOC:
 * [Fast.ai MOOC Details](https://www.fast.ai/2019/01/24/course-v3/)<br>
-* [Fast.ai MOOC Material](https://course.fast.ai)<br><br>
+* [Fast.ai MOOC Material](https://course.fast.ai)<br>
+Please feel free to improve this page!<br><br>
 
 **Lesson 1 - Intro to fastai and PyTorch:**
 * Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0)
@@ -50,7 +52,19 @@
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 <br><br>
 **Mathematics:**
+* [THE deep learning bok](https://www.deeplearningbook.org)
 * ???
+<br><br>
+**Mathematics:**
+* ???
+<br><br>
+**Selected publications:**
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)](https://arxiv.org/abs/1409.1556)
+* [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
+* [Network In Network (1x1 conv)](https://arxiv.org/abs/1312.4400)
+* [Going deeper with convolutions (Inception)](https://arxiv.org/abs/1409.4842)
+* ???
+* Everything on https://distill.pub and https://colah.github.io
 <br><br>
 **Possible presentation topics:**
 * CNNs in general
@@ -62,14 +76,6 @@
 **Possible projects:**
 * Tensorboard visualisation for fastai with fastai callback, including 2D visualisations for CNNs ([see notebook](https://github.com/MicPie/fastai_course_v3/blob/master/TBLogger_v2.ipynb))
 * [Histopathologic Cancer Detection on Kaggle](https://www.kaggle.com/c/histopathologic-cancer-detection)
-<br><br>
-**Selected publications:**
-* [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)](https://arxiv.org/abs/1409.1556)
-* [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
-* [Network In Network (1x1 conv)](https://arxiv.org/abs/1312.4400)
-* [Going deeper with convolutions (Inception)](https://arxiv.org/abs/1409.4842)
-* ???
-* Everything on https://distill.pub and https://colah.github.io
 <br><br>
 **Learning tips:**
 * [10 Top Ideas to Help Your Learning & 10 Pitfalls to Avoid in Your Learning](https://barbaraoakley.com/wp-content/uploads/2018/02/10-Top-Ideas-to-Help-Your-Learning-and-10-Pitfalls-1.pdf) (from the ["Learning how to learn"](https://www.coursera.org/learn/learning-how-to-learn) course)
