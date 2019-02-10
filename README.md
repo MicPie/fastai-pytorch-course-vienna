@@ -59,8 +59,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)<br>
 * [PyTorch Docs](https://pytorch.org/docs)<br>
 * [Udacity Deep Learning PyTorch Notebooks](https://github.com/udacity/deep-learning-v2-pytorch)<br>
-* [CMU Deep Learning Lecture Notes](http://deeplearning.cs.cmu.edu)<br>
-* [CMU Deep Learning Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)<br>
+* [CMU Deep Learning Course](http://deeplearning.cs.cmu.edu)<br>
+* [CMU Deep Learning Course Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)<br>
 * [Deep Lizard PyTorch Tutorials](http://deeplizard.com/learn/video/v5cngxo4mIg)
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 <br><br>
