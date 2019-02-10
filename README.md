@@ -10,11 +10,13 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * Basic matrix calculus:
   * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
+* Install PyTorch and fastai on your machine. (LINK ??)
 <br><br>
 
 **Lesson 1 - Intro to fastai and PyTorch:**
 * Deep learning in a nutshell: linear + nonlinear building blocks, e.g., max((k * x + d), 0); general function approximation
 * PyTorch intro and building blocks:
+  * [Intro to PyTorch](http://deeplizard.com/learn/video/iTKbyFh-7GM)
   * [Tensors and autograd picture](https://github.com/pytorch/pytorch)
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
   * torch.Tensor & Co. ([Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU))
