@@ -14,6 +14,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * PyTorch building blocks:
+  * torch.Tensor & Co.: ([Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU)
   * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
   * torch.nn.functional
   * torch.optim
@@ -56,6 +57,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Udacity Deep Learning PyTorch Notebooks](https://github.com/udacity/deep-learning-v2-pytorch)<br>
 * [CMU Deep Learning Lecture Notes](http://deeplearning.cs.cmu.edu)<br>
 * [CMU Deep Learning Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)<br>
+* [Deep Lizard PyTorch Tutorials](http://deeplizard.com/learn/video/v5cngxo4mIg)
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 <br><br>
 
