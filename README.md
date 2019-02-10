@@ -84,7 +84,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 <br><br>
 
 **Possible projects:**
-* Tensorboard visualisation for fastai with fastai callback, including 2D visualisations for CNNs ([see notebook](https://github.com/MicPie/fastai_course_v3/blob/master/TBLogger_v2.ipynb))
+* Tensorboard visualisation with fastai callback using [TensorboardX](https://github.com/lanpa/tensorboardX), including 2D visualisations for CNNs ([see notebook](https://github.com/MicPie/fastai_course_v3/blob/master/TBLogger_v2.ipynb))
 * [Histopathologic Cancer Detection on Kaggle](https://www.kaggle.com/c/histopathologic-cancer-detection)
 <br><br>
 
