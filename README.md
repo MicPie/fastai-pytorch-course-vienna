@@ -9,7 +9,7 @@
 * [PyTorch intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) ([link to tensor and autograd picture](https://github.com/pytorch/pytorch))
 * PyTorch workflow: Data -> Tensor -> Dataset -> Dataloader -> Network Training
 * PyTorch building blocks, e.g., torch.nn, torch.nn.functional, etc.
-* PyTorch debugging: pdb.set_trace(), [more meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/), [Debugger layer](https://docs.fast.ai/layers.html#Debugger), etc.
+* PyTorch debugging: [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf), [more meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/), [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger), etc.
 * https://pytorch.org/tutorials/beginner/nn_tutorial.html
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 * fastai workflow
@@ -66,4 +66,4 @@
 <br><br>
 **Learning tips:**
 * [10 Top Ideas to Help Your Learning & 10 Pitfalls to Avoid in Your Learning](https://barbaraoakley.com/wp-content/uploads/2018/02/10-Top-Ideas-to-Help-Your-Learning-and-10-Pitfalls-1.pdf) (from the ["Learning how to learn"](https://www.coursera.org/learn/learning-how-to-learn) course)
-* Use spaced repetition to memorize important concepts and APIs: [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) & [Spaced repitition in detail](https://www.gwern.net/Spaced-repetition)
+* Use spaced repetition to memorize important concepts and APIs: [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html), [Spaced repitition in detail](https://www.gwern.net/Spaced-repetition), [Anki spaced repitition flashcard app](https://apps.ankiweb.net)
