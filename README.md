@@ -13,7 +13,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 <br><br>
 
 **Lesson 1 - Intro to fastai and PyTorch:**
-* Deep learning in a nutshell: linear + nonlinear building blocks, e.g., min((k * x + d), 0); general function approximation
+* Deep learning in a nutshell: linear + nonlinear building blocks, e.g., max((k * x + d), 0); general function approximation
 * PyTorch intro and building blocks:
   * [Tensors and autograd picture](https://github.com/pytorch/pytorch)
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
