@@ -1,4 +1,4 @@
-# fastai-pytorch-course-vienna
+# Fastai v1 &amp; PyTorch v1 Course in Vienna
 [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html)<br>
 * [Fast.ai MOOC Details](https://www.fast.ai/2019/01/24/course-v3/)<br>
 * [Fast.ai MOOC Material](https://course.fast.ai)<br><br>
