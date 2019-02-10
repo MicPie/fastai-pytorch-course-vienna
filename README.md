@@ -16,6 +16,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * PyTorch building blocks:
   * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
   * torch.nn.functional
+  * torch.optim
 * PyTorch debugging:
   * [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
