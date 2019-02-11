@@ -91,7 +91,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * CNN ([Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) and [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/))
 * ResNets & DenseNets (theory, PyTorch code, loss function shape)
 * 1x1 convolutions (https://arxiv.org/abs/1312.4400)
-* Batch norm (https://github.com/udacity/deep-learning-v2-pytorch/blob/master/batch-norm/Batch_Normalization.ipynb, https://arxiv.org/abs/1502.03167, and https://arxiv.org/abs/1805.11604)
+* Batch norm (https://github.com/udacity/deep-learning-v2-pytorch/blob/master/batch-norm/Batch_Normalization.ipynb, https://arxiv.org/abs/1502.03167, https://arxiv.org/abs/1805.11604, and https://arxiv.org/abs/1803.08494)
 * LSTM unit ([Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/))
 * Attention (https://github.com/MicPie/pytorch/blob/master/attention.ipynb)
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
