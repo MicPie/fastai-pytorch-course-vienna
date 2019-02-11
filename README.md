@@ -88,6 +88,9 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 <br><br>
 
 **Possible presentation topics:**
+* Weight decay
+* Drop out
+* Data augmentation?
 * CNN ([Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) and [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/))
 * ResNets & DenseNets (theory, PyTorch code, loss function shape)
 * 1x1 convolutions (https://arxiv.org/abs/1312.4400)
