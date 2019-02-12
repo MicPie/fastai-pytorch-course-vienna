@@ -98,6 +98,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * LSTM unit ([Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/))
 * Attention (https://github.com/MicPie/pytorch/blob/master/attention.ipynb)
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
+* https://github.com/vdumoulin/conv_arithmetic
+* http://cs231n.github.io/convolutional-networks/
 <br><br>
 
 **Possible projects:**
