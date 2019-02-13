@@ -12,6 +12,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 * Install PyTorch and fastai on your machine. (LINK ??)
+* or Setting up PyTorch through external GPU ([Google Colab? Kaggle?](https://course.fast.ai/))
 <br><br>
 
 **Lesson 1 - Intro to fastai and PyTorch:**
