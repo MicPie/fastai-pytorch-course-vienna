@@ -27,20 +27,20 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * torch.nn.functional
   * torch.optim
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+
+
+**Lesson 2 - ?:**
 * PyTorch debugging:
   * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
   * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger)
-
-
-**Lesson 2 - ?:**
-* ?
-* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
-* fastai workflow
 * ?
 
 
 **Lesson 3 - ?:**
+* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
+* fastai workflow
 * ?
 
 
@@ -94,7 +94,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * CNN ([Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) and [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/), [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic), and [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/))
 * ResNets & DenseNets (theory, PyTorch code, loss function shape, etc.)
 * 1x1 convolutions ([Network In Network](https://arxiv.org/abs/1312.4400))
-* Batch norm ([Udacity Notebook](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/batch-norm/Batch_Normalization.ipynb), [Batch Normalization](https://arxiv.org/abs/1502.03167), [How Does Batch Normalization Help Optimization?[(https://arxiv.org/abs/1805.11604), and [Group Normalization](https://arxiv.org/abs/1803.08494))
+* Batch norm ([Udacity Notebook](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/batch-norm/Batch_Normalization.ipynb), [Batch Normalization](https://arxiv.org/abs/1502.03167), [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604), and [Group Normalization](https://arxiv.org/abs/1803.08494))
 * LSTM unit ([Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/))
 * Attention ([Notebook](https://github.com/MicPie/pytorch/blob/master/attention.ipynb))
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
