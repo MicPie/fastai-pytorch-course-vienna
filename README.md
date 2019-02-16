@@ -5,7 +5,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)<br><br>
 
 
-**Preparation:**
+## Preparation:
 * [Basic intro to deep learning](https://www.deeplearningbook.org/contents/intro.html)
 * [Python learning resources (for Beginners and advanced)](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 * Basic matrix calculus:
@@ -16,7 +16,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
 
 
-**Lesson 1 - Intro to fastai and PyTorch:**
+## Lesson 1 - Intro to fastai and PyTorch:
 * Deep learning in a nutshell: linear + nonlinear building blocks, e.g., max((k * x + d), 0); general function approximation
 * PyTorch intro and building blocks:
   * [Intro to PyTorch](http://deeplizard.com/learn/video/iTKbyFh-7GM)
@@ -30,7 +30,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 
-**Lesson 2 - ?:**
+## Lesson 2 - ?:
 * PyTorch debugging:
   * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
@@ -38,48 +38,48 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * ?
 
 
-**Lesson 3 - ?:**
+## Lesson 3 - ?:
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 * fastai workflow
 * ?
 
 
-**Lesson 4 - ?:**
+## Lesson 4 - ?:
 * ?
 
 
-**Lesson 5 - ?:**
+## Lesson 5 - ?:
 * ?
 
 
-**Lesson 6 - ?:**
+## Lesson 6 - ?:
 * ?
 
 
-**Lesson 7 - ?:**
+## Lesson 7 - ?:
 * ?
 
 
-**General PyTorch Deep Learning ressources:**<br>
-* [PyTorch Tutorials](https://pytorch.org/tutorials/)<br>
-* [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)<br>
-* [PyTorch Docs](https://pytorch.org/docs)<br>
-* [Udacity Deep Learning PyTorch Notebooks](https://github.com/udacity/deep-learning-v2-pytorch)<br>
-* [CMU Deep Learning Course](http://deeplearning.cs.cmu.edu)<br>
-* [CMU Deep Learning Course Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)<br>
+## General PyTorch Deep Learning ressources:
+* [PyTorch Tutorials](https://pytorch.org/tutorials/)
+* [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
+* [PyTorch Docs](https://pytorch.org/docs)
+* [Udacity Deep Learning PyTorch Notebooks](https://github.com/udacity/deep-learning-v2-pytorch)
+* [CMU Deep Learning Course](http://deeplearning.cs.cmu.edu)
+* [CMU Deep Learning Course Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)
 * [Deep Lizard PyTorch Tutorials](http://deeplizard.com/learn/video/v5cngxo4mIg)
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 
 
-**Deep Learning:**
+## Deep Learning:
 * [THE deep learning book](https://www.deeplearningbook.org)
 
 
-**Mathematics:**
-* ?
+## Mathematics:
+* https://www.3blue1brown.com
 
 
-**Selected publications:**
+## Selected publications:
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG network)](https://arxiv.org/abs/1409.1556)
 * [Deep Residual Learning for Image Recognition (ResNet network)](https://arxiv.org/abs/1512.03385)
 * [Network In Network (1x1 convolutions)](https://arxiv.org/abs/1312.4400)
@@ -87,8 +87,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * Everything on https://distill.pub and https://colah.github.io.
 
 
-**Possible presentation topics:**
-* Weight decay (L1 vs. L2)
+## Possible presentation topics:
+* Weight decay (L1 vs. L2, loss function vs. real weight decay)
 * Drop out
 * Data augmentation
 * CNN ([Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) and [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/), [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic), and [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/))
@@ -100,12 +100,12 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
 
 
-**Possible projects:**
+## Possible projects:
 * Tensorboard visualisation with fastai callback using [TensorboardX](https://github.com/lanpa/tensorboardX), including 2D visualisations for CNNs ([see starter notebook](https://github.com/MicPie/fastai_course_v3/blob/master/TBLogger_v2.ipynb) and [fastai forum thread](https://forums.fast.ai/t/tensorboard-integration/38023/))
 * [Histopathologic Cancer Detection on Kaggle](https://www.kaggle.com/c/histopathologic-cancer-detection)
 
 
-**Learning tips:**
+## Learning tips:
 * [10 Top Ideas to Help Your Learning & 10 Pitfalls to Avoid in Your Learning](https://barbaraoakley.com/wp-content/uploads/2018/02/10-Top-Ideas-to-Help-Your-Learning-and-10-Pitfalls-1.pdf) (from the [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) course)
 * Use spaced repetition to memorize important concepts, APIs, and everything else:
   * [Introduction to augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
