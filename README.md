@@ -12,7 +12,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 * [Install PyTorch and fastai on your machine.](https://course.fast.ai/index.html)
-* And/or set up external machine with GPU ([see "Server setup"](https://course.fast.ai/))
+* [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/))
 * Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
 
 
@@ -30,7 +30,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 
-## Lesson 2 - ?:
+## Lesson 2 - Debugging and visualisation:
 * PyTorch debugging:
   * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
