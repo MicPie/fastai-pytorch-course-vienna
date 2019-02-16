@@ -22,7 +22,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Intro to PyTorch](http://deeplizard.com/learn/video/iTKbyFh-7GM)
   * [Tensors and autograd picture](https://github.com/pytorch/pytorch)
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
-  * torch.Tensor & Co. ([Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU))
+  * torch.Tensor & Co. ([Notebook](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_1_Intro.ipynb), based on [Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU))
   * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html) incl. weights, biases, gradients, etc.
   * torch.nn.functional
   * torch.optim
