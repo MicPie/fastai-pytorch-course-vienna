@@ -31,6 +31,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * torch.nn.functional
   * torch.optim
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
 ## Lesson 2 - Debugging and visualisation:
