@@ -92,6 +92,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Possible presentation topics:
+Present one topic with a general introduction and PyTorch code in a Jupyter notebook in approx. 10-20 min. Feel free to add the notebooks to this repo.
 * Weight decay, L1-, and L2 regularization ([see weight decay vs. L2 regularization](https://bbabenko.github.io/weight-decay/))
 * Drop out (see [chapter 7.12](https://www.deeplearningbook.org/contents/regularization.html))
 * Data augmentation
