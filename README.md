@@ -112,6 +112,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 ## Learning tips:
 * [10 Top Ideas to Help Your Learning & 10 Pitfalls to Avoid in Your Learning](https://barbaraoakley.com/wp-content/uploads/2018/02/10-Top-Ideas-to-Help-Your-Learning-and-10-Pitfalls-1.pdf) (from the [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) course)
 * Use spaced repetition to memorize important concepts, APIs, and everything else:
-  * [Introduction to augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) ([concept outlined for a mathematic example](http://cognitivemedium.com/srs-mathematics))
+  * [Short intro to the spacing effect](https://fs.blog/2018/12/spacing-effect/)
+  * [(More detailed) Introduction to augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) ([concept outlined for a mathematic example](http://cognitivemedium.com/srs-mathematics))
   * [Spaced repitition in detail](https://www.gwern.net/Spaced-repetition)
   * [Anki spaced repitition flashcard app](https://apps.ankiweb.net)
