@@ -13,10 +13,10 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
 ### Optional:
 * [Basic intro to deep learning](https://www.deeplearningbook.org/contents/intro.html)
-* Basic matrix calculus:
 * [Python learning resources (for Beginners and advanced)](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
-* [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
- * [Animated matrix multiplication](http://matrixmultiplication.xyz)
+* Basic matrix calculus:
+  * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
+  * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 * Have a look at the [Broadcasting visualisation](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html) as this often used in DL.
 
 
