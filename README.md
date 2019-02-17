@@ -92,10 +92,10 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 ## Possible presentation topics:
 * Weight decay, L1-, and L2 regularization ([see weight decay vs. L2 regularization](https://bbabenko.github.io/weight-decay/))
-* Drop out
+* Drop out (see [chapter 7.12](https://www.deeplearningbook.org/contents/regularization.html))
 * Data augmentation
 * CNN ([Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) and [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/), [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic), and [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/))
-* ResNets & DenseNets (theory, PyTorch code, loss function shape, etc.)
+* ResNets & DenseNets (network architecture, PyTorch model code, [loss function shape](https://arxiv.org/pdf/1712.09913), etc.)
 * 1x1 convolutions ([Network In Network](https://arxiv.org/abs/1312.4400))
 * Batch norm ([Udacity Notebook](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/batch-norm/Batch_Normalization.ipynb), [Batch Normalization](https://arxiv.org/abs/1502.03167), [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604), and [Group Normalization](https://arxiv.org/abs/1803.08494))
 * LSTM unit ([Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/))
