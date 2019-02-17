@@ -6,12 +6,12 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Preparation:
-### Needed:
+### Before the course:
 * [Install PyTorch and fastai on your machine.](https://course.fast.ai/index.html) (see also [fastai developer installation](https://github.com/fastai/fastai#developer-install)).
 * [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/)
 * Install a Python IDE, e.g. [VS Code](https://code.visualstudio.com), for going through the fastai library in detail.
 * Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
-### Optional:
+### During the course:
 * [Basic intro to deep learning](https://www.deeplearningbook.org/contents/intro.html)
 * [Python learning resources (for Beginners and advanced)](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 * Basic matrix calculus:
@@ -31,7 +31,6 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * torch.nn.functional
   * torch.optim
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-
 
 
 ## Lesson 2 - Debugging and visualisation:
