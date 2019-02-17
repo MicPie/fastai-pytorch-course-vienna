@@ -1,14 +1,14 @@
 # Fastai v1 &amp; PyTorch v1 Course in Vienna
-This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html).<br>
+This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html).
 * [Fast.ai MOOC Details](https://www.fast.ai/2019/01/24/course-v3/)<br>
 * [Fast.ai MOOC Material](https://course.fast.ai)<br>
-* [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)<br><br>
+* [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)
 
 
 ## Preparation:
 ### Before the course:
 * [Install PyTorch and fastai on your machine.](https://course.fast.ai/index.html) (see also [fastai developer installation](https://github.com/fastai/fastai#developer-install)).
-* [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/)
+  * [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/) (without GPU the training will take much longer, so this is highly recommended).
 * Install a Python IDE, e.g. [VS Code](https://code.visualstudio.com), for going through the fastai library in detail.
 * Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
 ### During the course:
