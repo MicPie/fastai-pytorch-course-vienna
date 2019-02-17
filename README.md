@@ -12,8 +12,9 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 * [Install PyTorch and fastai on your machine.](https://course.fast.ai/index.html)
-* [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/))
+* [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/)
 * Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
+* [Broadcasting visualisation](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html)
 
 
 ## Lesson 1 - Intro to fastai and PyTorch:
@@ -22,7 +23,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Intro to PyTorch](http://deeplizard.com/learn/video/iTKbyFh-7GM)
   * [Tensors and autograd picture](https://github.com/pytorch/pytorch)
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
-  * torch.Tensor & Co. ([Notebook](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_1_Intro.ipynb), based on [Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU))
+  * torch.Tensor & Co. ([Notebook](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_1_Intro.ipynb), based on [Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU), [Broadcasting](https://pytorch.org/docs/master/notes/broadcasting.html))
   * [torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html) incl. weights, biases, gradients, etc.
   * torch.nn.functional
   * torch.optim
