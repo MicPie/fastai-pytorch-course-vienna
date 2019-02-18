@@ -109,6 +109,10 @@ Present one topic with a general introduction and PyTorch code in a Jupyter note
 * Tensorboard visualisation with fastai callback using [TensorboardX](https://github.com/lanpa/tensorboardX), including 2D visualisations for CNNs ([see starter notebook](https://github.com/MicPie/fastai_course_v3/blob/master/TBLogger_v2.ipynb) and [fastai forum thread](https://forums.fast.ai/t/tensorboard-integration/38023/))
 * [Histopathologic Cancer Detection on Kaggle](https://www.kaggle.com/c/histopathologic-cancer-detection)
 
+## Web Hosting:
+* [Pythonanywhere](https://www.pythonanywhere.com/) - free to start
+* [Render](https://render.com/) - free for static (HTML) sites, 5$ for python hosting
+* [Heroku](https://www.heroku.com/) - free basic cloud account for up to 3 projects
 
 ## Learning tips:
 * [10 Top Ideas to Help Your Learning & 10 Pitfalls to Avoid in Your Learning](https://barbaraoakley.com/wp-content/uploads/2018/02/10-Top-Ideas-to-Help-Your-Learning-and-10-Pitfalls-1.pdf) (from the [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) course)
