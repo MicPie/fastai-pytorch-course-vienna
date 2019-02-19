@@ -6,7 +6,13 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)
 
 ## Dates:
-* ?
+* 04.03.2019
+* 18.03.2019
+* 01.04.2019
+* 15.04.2019
+* 29.04.2019
+* 13.05.2019
+* 27.05.2019
 
 ## Preparation:
 ### Before the course:
