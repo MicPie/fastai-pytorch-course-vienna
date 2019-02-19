@@ -8,7 +8,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Dates
-[Get iCal file for the dates.](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/fastai_course.ics)
+[Get iCal file for the dates.](raw.githubusercontent.com/MicPie/fastai-pytorch-course-vienna/master/fastai_course.ics) (use "save as" and then remove ".txt")
 * 04.03.2019
 * 18.03.2019
 * 01.04.2019
