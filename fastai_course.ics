@@ -1,7 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ical.marudot.com//iCal Event Maker
-X-WR-CALNAME:fastai course
+X-WR-CALNAME:Fastai PyTorch Vienna Course
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
