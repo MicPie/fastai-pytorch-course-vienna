@@ -2,10 +2,11 @@
 This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html).
 * [Fast.ai MOOC Details](https://www.fast.ai/2019/01/24/course-v3/)
 * [Fast.ai MOOC Material](https://course.fast.ai) (this should be your first address if you are searching for something)
-* [fast.ai forum](https://forums.fast.ai) (this should be your second address if you are searching for something)
+* [Fastai docs](https://docs.fast.ai) (this should be your second address if you are searching for something)
+* [fast.ai forum](https://forums.fast.ai) (this should be your third address if you are searching for something)
   * [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)
 
-## Dates:
+## Dates
 * 04.03.2019
 * 18.03.2019
 * 01.04.2019
@@ -14,13 +15,13 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * 13.05.2019
 * 27.05.2019
 
-## Preparation:
-### Before the course:
+## Preparation
+### Before the course
 * [Install PyTorch and fastai on your machine](https://course.fast.ai/index.html) (see also [fastai developer installation](https://github.com/fastai/fastai#developer-install)).
   * [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/) (without GPU the training will take much longer, so this is highly recommended).
 * Install a Python IDE, e.g. [VS Code](https://code.visualstudio.com), for going through the fastai library in detail.
 * Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
-### During the course:
+### During the course
 * [Basic intro to deep learning](https://www.deeplearningbook.org/contents/intro.html)
 * [Python learning resources (for Beginners and advanced)](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 * Basic matrix calculus:
@@ -29,7 +30,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Broadcasting visualisation](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html)
 
 
-## Lesson 1 - Intro to fastai and PyTorch:
+## Lesson 1 - Intro to fastai and PyTorch
 * Deep learning in a nutshell:
   * data
   * neural network
@@ -45,7 +46,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
-## Lesson 2 - Debugging and visualisation:
+## Lesson 2 - Debugging and visualisation
 * PyTorch debugging:
   * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
@@ -53,29 +54,29 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * ?
 
 
-## Lesson 3 - ?:
+## Lesson 3 - ?
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 * fastai workflow
 * ?
 
 
-## Lesson 4 - ?:
+## Lesson 4 - ?
 * ?
 
 
-## Lesson 5 - ?:
+## Lesson 5 - ?
 * ?
 
 
-## Lesson 6 - ?:
+## Lesson 6 - ?
 * ?
 
 
-## Lesson 7 - ?:
+## Lesson 7 - ?
 * ?
 
 
-## General PyTorch Deep Learning ressources:
+## General PyTorch Deep Learning ressources
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
 * [PyTorch Docs](https://pytorch.org/docs)
@@ -86,15 +87,15 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 
 
-## Deep Learning:
+## Deep Learning
 * [THE deep learning book](https://www.deeplearningbook.org)
 
 
-## Mathematics:
+## Mathematics
 * https://www.3blue1brown.com
 
 
-## Selected publications:
+## Selected publications
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG network)](https://arxiv.org/abs/1409.1556)
 * [Deep Residual Learning for Image Recognition (ResNet network)](https://arxiv.org/abs/1512.03385)
 * [Network In Network (1x1 convolutions)](https://arxiv.org/abs/1312.4400)
@@ -102,7 +103,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * Everything on https://distill.pub and https://colah.github.io.
 
 
-## Possible presentation topics:
+## Possible presentation topics
 Present one topic with a general introduction and PyTorch code in a Jupyter notebook in approx. 10-20 min. Feel free to add the notebooks to this repo.
 * Weight decay, L1-, and L2 regularization ([see weight decay vs. L2 regularization](https://bbabenko.github.io/weight-decay/))
 * Drop out (see [chapter 7.12](https://www.deeplearningbook.org/contents/regularization.html))
@@ -116,16 +117,18 @@ Present one topic with a general introduction and PyTorch code in a Jupyter note
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
 
 
-## Possible projects:
+## Possible projects
 * Tensorboard visualisation with fastai callback using [TensorboardX](https://github.com/lanpa/tensorboardX), including 2D visualisations for CNNs ([see starter notebook](https://github.com/MicPie/fastai_course_v3/blob/master/TBLogger_v2.ipynb) and [fastai forum thread](https://forums.fast.ai/t/tensorboard-integration/38023/))
 * [Histopathologic Cancer Detection on Kaggle](https://www.kaggle.com/c/histopathologic-cancer-detection)
 
-## Web Hosting:
+
+## Deployment
+* [fast.ai deployment options](https://course.fast.ai/deployment_render.html)
 * [Pythonanywhere](https://www.pythonanywhere.com/) - free to start
 * [Render](https://render.com/) - free for static (HTML) sites, 5$ for python hosting
 * [Heroku](https://www.heroku.com/) - free basic cloud account for up to 3 projects
 
-## Learning tips:
+## Learning tips
 * [10 Top Ideas to Help Your Learning & 10 Pitfalls to Avoid in Your Learning](https://barbaraoakley.com/wp-content/uploads/2018/02/10-Top-Ideas-to-Help-Your-Learning-and-10-Pitfalls-1.pdf) (from the [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) course)
 * Use spaced repetition to memorize important concepts, APIs, and everything else:
   * [Short intro to the spacing effect](https://fs.blog/2018/12/spacing-effect/)
