@@ -1,9 +1,12 @@
 # Fastai v1 &amp; PyTorch v1 Course in Vienna
 This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://keepcurrent.online/ml-course.html).
-* [Fast.ai MOOC Details](https://www.fast.ai/2019/01/24/course-v3/)<br>
-* [Fast.ai MOOC Material](https://course.fast.ai)<br>
+* [Fast.ai MOOC Details](https://www.fast.ai/2019/01/24/course-v3/)
+* [Fast.ai MOOC Material](https://course.fast.ai) (this should be your first address if you are searching for something)
+* [fast.ai forum](https://forums.fast.ai) (this should be your secound address if you are searching for something)
 * [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)
 
+## Dates:
+* ?
 
 ## Preparation:
 ### Before the course:
