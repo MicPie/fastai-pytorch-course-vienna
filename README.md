@@ -25,6 +25,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * Install a Python IDE, e.g. [VS Code](https://code.visualstudio.com), for going through the fastai library in detail.
 * Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
 ### During the course
+* Lesson [Notes 1](https://github.com/hiromis/notes) and [Notes 2](https://github.com/cedrickchee/knowledge/blob/master/courses/fast.ai/deep-learning-part-1/2019-edition/)
 * [Basic intro to deep learning](https://www.deeplearningbook.org/contents/intro.html)
 * [Python learning resources (for Beginners and advanced)](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 * Basic matrix calculus:
@@ -91,7 +92,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Deep Learning
-* [THE deep learning book](https://www.deeplearningbook.org)
+* [The deep learning book (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](https://www.deeplearningbook.org)
+* [Neural Networks and Deep Learning (Michael Nielson)](http://neuralnetworksanddeeplearning.com)
 
 
 ## Mathematics
@@ -110,7 +112,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 Present one topic with a general introduction and PyTorch code in a Jupyter notebook in approx. 10-20 min. Feel free to add the notebooks to this repo.
 * Weight decay, L1-, and L2 regularization ([see weight decay vs. L2 regularization](https://bbabenko.github.io/weight-decay/))
 * Drop out (see [chapter 7.12](https://www.deeplearningbook.org/contents/regularization.html))
-* Data augmentation
+* [Data augmentation](https://github.com/kechan/FastaiPlayground/blob/master/Quick%20Tour%20of%20Data%20Augmentation.ipynb)
 * CNN ([Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) and [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/), [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic), and [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)), or [Advanced CNN Architectures](https://dvl.in.tum.de/teaching/adl4cv-ws18/) (Advanced Deep Learning for Computer vision - Munich University)
 * ResNets & DenseNets (network architecture, [PyTorch model code](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py), [loss function shape](https://arxiv.org/pdf/1712.09913), etc.)
 * 1x1 convolutions ([Network In Network](https://arxiv.org/abs/1312.4400))
