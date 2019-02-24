@@ -120,6 +120,7 @@ Present one topic with a general introduction and PyTorch code in a Jupyter note
 * LSTM unit ([Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/))
 * Attention ([Notebook](https://github.com/MicPie/pytorch/blob/master/attention.ipynb))
 * Cross entropy loss (based on this [introduction](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) and [information theory](https://colah.github.io/posts/2015-09-Visual-Information/)).
+* [Mixed precision training](https://forums.fast.ai/t/mixed-precision-training/20720), [floating point arithmetics](https://en.wikipedia.org/wiki/Floating-point_arithmetic), and the [fastai callback](https://docs.fast.ai/callbacks.fp16.html).
 
 
 ## Possible projects
