@@ -36,9 +36,9 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Lesson 1 - Intro to fastai and PyTorch
-* *To dos before the lesson:*
-  * *watch the [fastai lesson 1](https://course.fast.ai/videos/?lesson=1)*
-  * *run the [lesson 1 notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb)*
+* **To dos before the lesson:*
+  * **watch the [fastai lesson 1](https://course.fast.ai/videos/?lesson=1)*
+  * **run the [lesson 1 notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb)*
 * fastai lesson 1 discussion
 * Deep learning in a nutshell:
   * data
