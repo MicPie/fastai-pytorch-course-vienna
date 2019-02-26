@@ -23,7 +23,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Install PyTorch and fastai on your machine](https://course.fast.ai/index.html) (see also [fastai developer installation](https://github.com/fastai/fastai#developer-install)).
   * [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/) (without GPU the training will take much longer, so this is highly recommended).
 * Install a Python IDE, e.g. [VS Code](https://code.visualstudio.com), for going through the fastai library in detail.
-* Familiarize yourself with the [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
+* Familiarize yourself with [Jupyter notebooks](https://github.com/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb) and the [Python debugger](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
 ### During the course
 * Fast.ai Lesson [Notes 1](https://github.com/hiromis/notes) and [Notes 2](https://github.com/cedrickchee/knowledge/blob/master/courses/fast.ai/deep-learning-part-1/2019-edition/)
 * [Basic intro to deep learning](https://www.deeplearningbook.org/contents/intro.html)
@@ -35,6 +35,10 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Lesson 1 - Intro to fastai and PyTorch
+* *To dos before the lesson:*
+  * *watch the [fastai lesson 1](https://course.fast.ai/videos/?lesson=1)*
+  * *run the [lesson 1 notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb)
+* fastai lesson 1 discussion
 * Deep learning in a nutshell:
   * data
   * neural network
