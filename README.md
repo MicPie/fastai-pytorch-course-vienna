@@ -24,9 +24,9 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Install PyTorch and fastai on your machine](https://course.fast.ai/index.html) (see also [fastai developer installation](https://github.com/fastai/fastai#developer-install)).
   * [And/or set up external machine with GPU (see "Server setup")](https://course.fast.ai/) (without GPU the training will take much longer, so this is highly recommended).
 * Install a Python IDE, e.g. [VS Code](https://code.visualstudio.com), for going through the fastai library in detail.
-* Familiarize yourself with [Jupyter notebooks](https://github.com/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb) and the [Python debugger](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
+* Familiarize yourself with [Jupyter notebooks](https://github.com/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb), [terminal](https://course.fast.ai/terminal_tutorial.html), and the [Python debugger](https://github.com/nblock/pdb-cheatsheet/releases/download/v1.2/pdb-cheatsheet.pdf) (pdb.set_trace(), l, ll, u, n, c, etc.)
 ### During the course
-* Fast.ai Lesson [Notes 1](https://github.com/hiromis/notes) and [Notes 2](https://github.com/cedrickchee/knowledge/blob/master/courses/fast.ai/deep-learning-part-1/2019-edition/)
+* Fast.ai Lesson [Notes A](https://github.com/hiromis/notes) and [Notes B](https://github.com/cedrickchee/knowledge/blob/master/courses/fast.ai/deep-learning-part-1/2019-edition/)
 * [Basic intro to deep learning](https://www.deeplearningbook.org/contents/intro.html)
 * [Python learning resources (for Beginners and advanced)](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 * Basic matrix calculus:
@@ -46,8 +46,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * loss function
   * optimizer
 * PyTorch intro and building blocks:
-  * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) and [another intro to PyTorch](http://deeplizard.com/learn/video/iTKbyFh-7GM) ([tensors and autograd picture](https://github.com/pytorch/pytorch))
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
+  * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) and [another intro to PyTorch](http://deeplizard.com/learn/video/iTKbyFh-7GM) ([tensors and autograd picture](https://github.com/pytorch/pytorch))
   * torch.Tensor & Co. ([Notebook](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_1_Intro.ipynb), based on [Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU), [Broadcasting](https://pytorch.org/docs/master/notes/broadcasting.html))
   * [torch.nn tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html), [torch.nn docs](https://pytorch.org/docs/stable/nn.html), incl. weights, biases, gradients, etc.
   * [torch.nn.functional](https://pytorch.org/docs/stable/nn.html#torch-nn-functional)
@@ -61,7 +61,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
   * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger)
-* ?
+* Looking into the fastai library with your IDE
 
 
 ## Lesson 3 - ?
