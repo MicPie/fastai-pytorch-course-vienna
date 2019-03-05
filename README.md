@@ -57,6 +57,15 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Lesson 2 - Debugging and visualisation
+* **To dos before the lesson:**
+  * **watch the [fastai lesson 2](https://course.fast.ai/videos/?lesson=2)**
+* PyTorch building blocks:
+  * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+  * [torch.nn tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html), [torch.nn docs](https://pytorch.org/docs/stable/nn.html), incl. weights, biases, gradients, etc.
+  * [torch.nn.functional](https://pytorch.org/docs/stable/nn.html#torch-nn-functional)
+  * [torch.optim](https://pytorch.org/docs/stable/optim.html)
+  * [PyTorch and NumPy comparison notebook](https://github.com/odysseus0/pytorch_tutorials/blob/master/tensor_tutorial.ipynb)
+* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 * PyTorch debugging:
   * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
