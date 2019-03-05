@@ -49,11 +49,6 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) and [another intro to PyTorch](http://deeplizard.com/learn/video/iTKbyFh-7GM) ([tensors and autograd picture](https://github.com/pytorch/pytorch))
   * PyTorch workflow: data array -> torch tensor -> torch dataset -> torch dataloader -> network training
   * torch.Tensor & Co. ([Notebook](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_1_Intro.ipynb), based on [Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU), [Broadcasting](https://pytorch.org/docs/master/notes/broadcasting.html))
-  * [torch.nn tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html), [torch.nn docs](https://pytorch.org/docs/stable/nn.html), incl. weights, biases, gradients, etc.
-  * [torch.nn.functional](https://pytorch.org/docs/stable/nn.html#torch-nn-functional)
-  * [torch.optim](https://pytorch.org/docs/stable/optim.html)
-  * [PyTorch and NumPy comparison notebook](https://github.com/odysseus0/pytorch_tutorials/blob/master/tensor_tutorial.ipynb)
-* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
 ## Lesson 2 - Debugging and visualisation
