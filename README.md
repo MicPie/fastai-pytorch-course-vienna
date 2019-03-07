@@ -66,7 +66,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
   * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger)
 * Looking into the fastai library with your IDE
-
+* **A presentation about Cross entropy loss** by Christoph and Pascal
 
 ## Lesson 3 - ?
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
