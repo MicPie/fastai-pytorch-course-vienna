@@ -71,6 +71,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * **To dos before the lesson:**
   * **watch the [fastai lesson 3](https://course.fast.ai/videos/?lesson=3) ([hiromis notes lesson 3](https://github.com/hiromis/notes/blob/master/Lesson3.md))**
   * **try the [Udacity DL course exercise on Neural networks with PyTorch](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises).ipynb)**
+* PyTorch building blocks continued:
+  * [weight initialization](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/weight-initialization)
 * PyTorch debugging:
   * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
