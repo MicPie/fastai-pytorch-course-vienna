@@ -107,11 +107,16 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [CMU Deep Learning Course Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)
 * [Deep Lizard PyTorch Tutorials](http://deeplizard.com/learn/video/v5cngxo4mIg)
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
-
+* [PyTorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
+* [Advanced PyTorch concepts with code](https://github.com/graykode/projects)
 
 ## Deep Learning
 * [The deep learning book (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](https://www.deeplearningbook.org)
 * [Neural Networks and Deep Learning (Michael Nielson)](http://neuralnetworksanddeeplearning.com)
+* CS 230 Deep Learning Cheatsheets:
+  * [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+  * [Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+  * [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
 
 
 ## Mathematics
