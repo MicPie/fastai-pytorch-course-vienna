@@ -64,6 +64,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [torch.nn.functional](https://pytorch.org/docs/stable/nn.html#torch-nn-functional)
   * [torch.optim](https://pytorch.org/docs/stable/optim.html)
   * [PyTorch and NumPy comparison notebook](https://github.com/odysseus0/pytorch_tutorials/blob/master/tensor_tutorial.ipynb)
+* fastai building blocks:
+  * [layers](https://github.com/fastai/fastai/blob/master/fastai/layers.py)
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 * **A presentation about Cross entropy loss** by Christoph and Pascal
 * Looking into the fastai library with your IDE
