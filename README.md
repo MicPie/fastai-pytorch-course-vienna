@@ -122,6 +122,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Mathematics
+* [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 * https://www.3blue1brown.com
 
 
