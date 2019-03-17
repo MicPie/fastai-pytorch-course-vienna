@@ -116,10 +116,12 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 ## Deep Learning
 * [The deep learning book (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](https://www.deeplearningbook.org)
 * [Neural Networks and Deep Learning (Michael Nielson)](http://neuralnetworksanddeeplearning.com)
+* [ML yearning by Andrew Ng](https://www.mlyearning.org) (About how to structure Machine Learning projects.)
 * CS 230 Deep Learning Cheatsheets:
   * [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
   * [Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
   * [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+* [AI Transformation Playbook by Andrew Ng](https://landing.ai/ai-transformation-playbook/) (A playbook to become a strong AI company.)
 
 
 ## Mathematics
