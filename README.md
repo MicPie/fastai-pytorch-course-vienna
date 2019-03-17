@@ -59,8 +59,9 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * **have a look at the [torch.nn tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html) to familiarize yourself with the concepts and to have it easier when we go through it in the meetup**
 * PyTorch building blocks:
   * ([PyTorch Blitz intro](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html))
+  * [torch.nn tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
   * [torch.nn notebook](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_2_torchnn.ipynb)
-  * [torch.nn tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html), [torch.nn docs](https://pytorch.org/docs/stable/nn.html), incl. [nn.Parameter](https://stackoverflow.com/questions/50935345/understanding-torch-nn-parameter), weights, biases, gradients, etc.
+  * [torch.nn docs](https://pytorch.org/docs/stable/nn.html), incl. [nn.Parameter](https://stackoverflow.com/questions/50935345/understanding-torch-nn-parameter), weights, biases, gradients, etc.
   * [torch.nn.functional](https://pytorch.org/docs/stable/nn.html#torch-nn-functional)
   * [torch.optim](https://pytorch.org/docs/stable/optim.html)
   * [PyTorch and NumPy comparison notebook](https://github.com/odysseus0/pytorch_tutorials/blob/master/tensor_tutorial.ipynb)
