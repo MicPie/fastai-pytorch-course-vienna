@@ -51,7 +51,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * torch.Tensor & Co. ([notebook](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_1_Intro.ipynb), based on [Part 1](http://deeplizard.com/learn/video/jexkKugTg04) and [Part 2](http://deeplizard.com/learn/video/AglLTlms7HU), [Broadcasting](https://pytorch.org/docs/master/notes/broadcasting.html))
 
 
-## Lesson 2 - torch.nn
+## Lesson 2 - torch.nn & Co.
 * **To dos before the lesson:**
   * **watch the [fastai lesson 2](https://course.fast.ai/videos/?lesson=2) ([hiromis notes lesson 2](https://github.com/hiromis/notes/blob/master/Lesson2.md))**
   * **run the [lesson 2 notebook about regression and SGD](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-sgd.ipynb)**
