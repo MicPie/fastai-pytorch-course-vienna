@@ -67,8 +67,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [PyTorch and NumPy comparison notebook](https://github.com/odysseus0/pytorch_tutorials/blob/master/tensor_tutorial.ipynb)
 * fastai building blocks:
   * [layers](https://github.com/fastai/fastai/blob/master/fastai/layers.py)
-* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 * **A presentation about Cross entropy loss** by Christoph and Pascal
+* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 * Looking into the fastai library with your IDE
 
 ## Lesson 3 - Debugging and visualisation
