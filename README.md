@@ -109,6 +109,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [CMU Deep Learning Course](http://deeplearning.cs.cmu.edu)
 * [CMU Deep Learning Course Recitation Repo](https://github.com/cmudeeplearning11785/Spring2019_Tutorials)
 * [Deep Lizard PyTorch Tutorials](http://deeplizard.com/learn/video/v5cngxo4mIg)
+* [EE-559 – EPFL – Deep Learning](https://fleuret.org/ee559/)
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 * [PyTorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 * [Advanced PyTorch concepts with code](https://github.com/graykode/projects)
