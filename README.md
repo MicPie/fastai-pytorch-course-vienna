@@ -67,6 +67,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [torch.optim](https://pytorch.org/docs/stable/optim.html)
   * [PyTorch and NumPy comparison notebook](https://github.com/odysseus0/pytorch_tutorials/blob/master/tensor_tutorial.ipynb)
 * **A presentation about Cross entropy loss** by Christoph and Pascal
+  * [Visual information theory](https://colah.github.io/posts/2015-09-Visual-Information/)
 
 
 ## Lesson 3 - Debugging and visualisation
