@@ -12,7 +12,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 [Get iCal file for the dates](https://raw.githubusercontent.com/MicPie/fastai-pytorch-course-vienna/master/fastai_course.ics) (use "save as" and then remove ".txt", if you know a better option please tell us).
 * 04.03.2019 - Stockwerk Coworking - Pater-Schwartz-Gasse 11A, 1150 Wien
 * 18.03.2019 - Nic.at - Karlsplatz 1, 1010 Wien
-* 01.04.2019
+* 01.04.2019 - EBCONT - Millennium Tower, Handelskai 94-96, 1200 Wien
 * 15.04.2019 - EBCONT - Millennium Tower, Handelskai 94-96, 1200 Wien
 * 29.04.2019
 * 13.05.2019
