@@ -128,6 +128,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Mathematics
+* [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 * https://www.3blue1brown.com
 
