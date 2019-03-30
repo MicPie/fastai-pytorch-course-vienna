@@ -88,7 +88,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
-## Lesson 4 - ?
+## Lesson 4 - NLP
 * **To dos before the lesson:**
   * **watch the [fastai lesson 4](https://course.fast.ai/videos/?lesson=4) ([hiromis notes lesson 4](https://github.com/hiromis/notes/blob/master/Lesson4.md))**
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
@@ -97,14 +97,20 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 
 
 ## Lesson 5 - ?
+* **To dos before the lesson:**
+  * **watch the [fastai lesson 5](https://course.fast.ai/videos/?lesson=5) ([hiromis notes lesson 5](https://github.com/hiromis/notes/blob/master/Lesson5.md))**
 * ?
 
 
 ## Lesson 6 - ?
+* **To dos before the lesson:**
+  * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
 * ?
 
 
 ## Lesson 7 - ?
+* **To dos before the lesson:**
+  * **watch the [fastai lesson 7](https://course.fast.ai/videos/?lesson=7) ([hiromis notes lesson 7](https://github.com/hiromis/notes/blob/master/Lesson7.md))**
 * ?
 
 
