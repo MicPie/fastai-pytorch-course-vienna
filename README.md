@@ -80,7 +80,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
   * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger)
-* [lesson 3 notebook about multi-label prediction with Planet Amazon dataset](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-planet.ipynb)
+* [Lesson 3 notebook about multi-label prediction with Planet Amazon dataset](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-planet.ipynb)
 * fastai workflow & building blocks:
   * [PyTorch Dataset](https://pytorch.org/docs/stable/_modules/torch/utils/data/dataset.html#Dataset), [PyTorch DataLoader](https://pytorch.org/docs/stable/_modules/torch/utils/data/dataloader.html#DataLoader), and [fastai DataBunch](https://docs.fast.ai/basic_data.html#DataBunch).
   * [DataBlock API example](https://github.com/fastai/fastai/blob/master/docs_src/data_block.ipynb) & [DataBlock docs](https://docs.fast.ai/data_block.html)
