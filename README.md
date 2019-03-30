@@ -81,7 +81,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
   * [PyTorch Debugger layer](https://docs.fast.ai/layers.html#Debugger)
 * [lesson 3 notebook about multi-label prediction with Planet Amazon dataset](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-planet.ipynb)
-* fastai building blocks:
+* fastai workflow & building blocks:
   * [PyTorch Dataset](https://pytorch.org/docs/stable/_modules/torch/utils/data/dataset.html#Dataset), [PyTorch DataLoader](https://pytorch.org/docs/stable/_modules/torch/utils/data/dataloader.html#DataLoader), and [fastai DataBunch](https://docs.fast.ai/basic_data.html#DataBunch).
   * Looking into the fastai library with your IDE
   * [layers](https://github.com/fastai/fastai/blob/master/fastai/layers.py)
@@ -92,7 +92,6 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * **To dos before the lesson:**
   * **watch the [fastai lesson 4](https://course.fast.ai/videos/?lesson=4) ([hiromis notes lesson 4](https://github.com/hiromis/notes/blob/master/Lesson4.md))**
 * https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
-* fastai workflow
 * ?
 
 
