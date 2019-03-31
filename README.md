@@ -77,7 +77,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * **try the [Udacity DL course exercise on Neural networks with PyTorch](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises).ipynb) [(solutions)](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Solution).ipynb)**
   * **try the [Udacity DL course exercise on Neural network weight initialization with PyTorch](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/weight-initialization/weight_initialization_exercise.ipynb) [(solutions)](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/weight-initialization/weight_initialization_solution.ipynb)**
 * PyTorch debugging:
-  * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) incl. [Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb)
+  * [Debugging Intro Notebook](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb)
+  * [CMU DL debugging and visualisation](http://deeplearning.cs.cmu.edu/recitations.spring19/slides_debugging.pdf) ([Notebook](https://github.com/cmudeeplearning11785/Spring2019_Tutorials/blob/master/recitation-4/DataVisualization.ipynb))
   * [More meaningful error messages on CUDA](https://lernapparat.de/debug-device-assert/)
 * [Lesson 3 notebook about multi-label prediction with Planet Amazon dataset](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-planet.ipynb)
 * fastai workflow & building blocks:
