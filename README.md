@@ -87,19 +87,20 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [DataBlock API docs](https://docs.fast.ai/data_block.html) and [DataBlock API sample](https://github.com/hiromis/notes/blob/master/Lesson3.md#data-block-api-examples-2356)
   * Looking into the fastai library with your IDE
   * [layers](https://github.com/fastai/fastai/blob/master/fastai/layers.py)
-* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
 ## Lesson 4 - NLP
 * **To dos before the lesson:**
   * **watch the [fastai lesson 4](https://course.fast.ai/videos/?lesson=4) ([hiromis notes lesson 4](https://github.com/hiromis/notes/blob/master/Lesson4.md))**
-* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
-* ?
+* NLP notebook?
+* Presentation?
+* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
 ## Lesson 5 - ?
 * **To dos before the lesson:**
   * **watch the [fastai lesson 5](https://course.fast.ai/videos/?lesson=5) ([hiromis notes lesson 5](https://github.com/hiromis/notes/blob/master/Lesson5.md))**
+* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 * ?
 
 
