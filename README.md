@@ -95,6 +95,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * NLP notebook?
 * Presentation?
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
+* [Writing code for NLP Research](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit)
 
 
 ## Lesson 5 - ?
