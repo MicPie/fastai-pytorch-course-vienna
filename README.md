@@ -92,12 +92,12 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 ## Lesson 4 - NLP
 * **To dos before the lesson:**
   * **watch the [fastai lesson 4](https://course.fast.ai/videos/?lesson=4) ([hiromis notes lesson 4](https://github.com/hiromis/notes/blob/master/Lesson4.md))**
-  * **Run the [lesson 3 imdb notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)
-  * **Run the [lesson 4 Movie recommendation notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-collab.ipynb)
+  * **Run the [lesson 3 imdb notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)**
+  * **Run the [lesson 4 Movie recommendation notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-collab.ipynb)**
 * NLP notebook - Building NLP architecture & pipeline
 * Presentation - [ABC NLP](https://docs.google.com/presentation/d/1HYLX8-q3BrCW0mgbouqMo-KvYThgY6QpqAClZZlqdQw/edit?usp=sharing)
-* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 * [Writing code for NLP Research](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit)
+* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
 ## Lesson 5 - ?
