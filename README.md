@@ -94,12 +94,13 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * **watch the [fastai lesson 4](https://course.fast.ai/videos/?lesson=4) ([hiromis notes lesson 4](https://github.com/hiromis/notes/blob/master/Lesson4.md))**
   * **Run the [lesson 3 imdb notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)**
   * **Run the [lesson 4 Movie recommendation notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-collab.ipynb)**
-* Convolutional Neural Networks:
- * [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic)
- * [Udacity Notebook - Convolutional Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb)
- * [Udacity Notebook - CNN Filters](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/custom_filters.ipynb)
- * [Udacity Notebook - Maxpooling Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/maxpooling_visualization.ipynb)
- * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/))
+  * **Have a look at the[Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic) and the notebooks from the CNN buildong blocks section below.**
+* CNN building blocks:
+  * [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic)
+  * [Udacity Notebook - Convolutional Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb)
+  * [Udacity Notebook - CNN Filters](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/custom_filters.ipynb)
+  * [Udacity Notebook - Maxpooling Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/maxpooling_visualization.ipynb)
+  * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/))
 * Natural Language Processing:
  * NLP notebook - Building NLP architecture & pipeline
  * Presentation - [ABC NLP](https://docs.google.com/presentation/d/1HYLX8-q3BrCW0mgbouqMo-KvYThgY6QpqAClZZlqdQw/edit?usp=sharing)
