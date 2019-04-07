@@ -94,7 +94,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * **watch the [fastai lesson 4](https://course.fast.ai/videos/?lesson=4) ([hiromis notes lesson 4](https://github.com/hiromis/notes/blob/master/Lesson4.md))**
   * **Run the [lesson 3 imdb notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)**
   * **Run the [lesson 4 Movie recommendation notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-collab.ipynb)**
-  * **Have a look at the [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic) and the notebooks from the CNN buildong blocks section below.**
+  * **Have a look at the [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic) and the notebooks from the CNN building blocks section below.**
 * CNN building blocks:
   * [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic)
   * [Udacity Notebook - Convolutional Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb)
