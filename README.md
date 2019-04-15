@@ -14,9 +14,10 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * 18.03.2019 - Nic.at - Karlsplatz 1, 1010 Wien
 * 01.04.2019 - EBCONT - Millennium Tower, Handelskai 94-96, 1200 Wien
 * 15.04.2019 - EBCONT - Millennium Tower, Handelskai 94-96, 1200 Wien
-* 29.04.2019
-* 13.05.2019
+* -- BREAK --
+* 13.05.2019 - Nic.at - Karlsplatz 1, 1010 Wien
 * 27.05.2019
+* 11.06.2019
 
 
 ## Preparation
