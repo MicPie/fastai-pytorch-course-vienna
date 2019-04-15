@@ -102,8 +102,8 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Udacity Notebook - Convolutional Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb)
   * [Udacity Notebook - CNN Filters](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/custom_filters.ipynb)
   * [Udacity Notebook - Maxpooling Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/maxpooling_visualization.ipynb)
-  * [C4M2: Deep Convolutional Models (CNN architectures, 1x1 conv., etc.)](https://cs230.stanford.edu/files/C4M2.pdf)
-  * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/))
+  * [CS230 DL: C4M2: Deep Convolutional Models (CNN architectures, 1x1 conv., etc.)](https://cs230.stanford.edu/files/C4M2.pdf)
+  * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 * Natural Language Processing:
   * NLP notebook - Building NLP architecture & pipeline
   * Presentation - [ABC NLP](https://docs.google.com/presentation/d/1HYLX8-q3BrCW0mgbouqMo-KvYThgY6QpqAClZZlqdQw/edit?usp=sharing)
