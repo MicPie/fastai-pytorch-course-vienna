@@ -96,11 +96,13 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * **Run the [lesson 3 imdb notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)**
   * **Run the [lesson 4 Movie recommendation notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-collab.ipynb)**
   * **Have a look at the [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic) and the notebooks from the CNN building blocks section below.**
-* CNN building blocks:
+* Convolution Neural Network building blocks:
+  * [Animation of a Convolution Neural Network at work](https://www.youtube.com/watch?v=f0t-OCG79-U)
   * [Convolution arithmetic animations](https://github.com/vdumoulin/conv_arithmetic)
   * [Udacity Notebook - Convolutional Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb)
   * [Udacity Notebook - CNN Filters](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/custom_filters.ipynb)
   * [Udacity Notebook - Maxpooling Layer](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/conv-visualization/maxpooling_visualization.ipynb)
+  * [C4M2: Deep Convolutional Models (CNN architectures, 1x1 conv., etc.)](https://cs230.stanford.edu/files/C4M2.pdf)
   * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/))
 * Natural Language Processing:
   * NLP notebook - Building NLP architecture & pipeline
