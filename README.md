@@ -36,6 +36,13 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
 * [Broadcasting visualisation](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html)
 
+###Communication
+There are several communication options:
+Fast.ai forums - https://forums.fast.ai/t/study-group-in-austria/26119 (preferred option)
+Slack - either on [Keep-Current (#mlcourse)](https://join.slack.com/t/keep-current/shared_invite/enQtMzY3Mzk1NjE2MzIzLWZlZWFjMDM1YWYxYmI5ZWE4YmZjNWYzMmNjMzlhMDYzOTIxZDViODhmNTMzZDI0NThmZWVlOTRjNjczZGJiOWE) or Vienna Data Science Group
+Facebook groups: [Keep-Current](https://www.facebook.com/groups/308893846340861/) or [Facebook Developer Circles](https://www.facebook.com/groups/DevCVienna/)
+
+
 
 ## Lesson 1 - Intro to fastai and PyTorch
 * **To dos before the lesson:**
