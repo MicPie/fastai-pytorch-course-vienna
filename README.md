@@ -119,7 +119,7 @@ There are several communication options:
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
-## Lesson 5 - ?
+## Lesson 5 - SGD, embeddings & Co.
 * **To dos before the lesson:**
   * **watch the [fastai lesson 5](https://course.fast.ai/videos/?lesson=5) ([hiromis notes lesson 5](https://github.com/hiromis/notes/blob/master/Lesson5.md))**
   * **Run the [lesson 4 tabular notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-tabular.ipynb)**
