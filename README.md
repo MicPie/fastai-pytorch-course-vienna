@@ -122,13 +122,16 @@ There are several communication options:
 ## Lesson 5 - ?
 * **To dos before the lesson:**
   * **watch the [fastai lesson 5](https://course.fast.ai/videos/?lesson=5) ([hiromis notes lesson 5](https://github.com/hiromis/notes/blob/master/Lesson5.md))**
-* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
-* ?
+  * **Run the [lesson 4 tabular notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-tabular.ipynb)**
+  * **Run the [lesson 5 MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)**
+* To be decided soon, see our email. :-)
+* [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
 ## Lesson 6 - ?
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
+* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 * ?
 
 
