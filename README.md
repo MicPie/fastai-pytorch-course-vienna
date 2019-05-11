@@ -125,7 +125,6 @@ There are several communication options:
   * **Run the [lesson 5 MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)**
   * **Run the [lesson 6 Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)**
 * [MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)
-* [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)
 * fastai usage example at last datathon in Vienna
 * Understanding optimizers:
   * [Understanding Exponentially Weighted Averages](https://www.youtube.com/watch?v=NxTFlzBjS-4)
@@ -134,6 +133,7 @@ There are several communication options:
   * [RMSProp](https://www.youtube.com/watch?v=_e-LFe_igno)
   * [Adam](https://www.youtube.com/watch?v=JXQT_vxqwIs) (Momentum + RMSprop)
   * [Link to the slides from the videos above](http://cs230.stanford.edu/files/C2M2.pdf)
+* [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
