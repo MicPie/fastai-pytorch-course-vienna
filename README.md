@@ -128,8 +128,8 @@ There are several communication options:
 * [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)
 * fastai usage example at last datathon in Vienna
 * Understanding optimizers:
-  * ([Understanding Exponentially Weighted Averages](https://www.youtube.com/watch?v=NxTFlzBjS-4))
-  * ([Bias Correction of Exponentially Weighted Averages](https://www.youtube.com/watch?v=lWzo8CajF5s))
+  * [Understanding Exponentially Weighted Averages](https://www.youtube.com/watch?v=NxTFlzBjS-4)
+  * [Bias Correction of Exponentially Weighted Averages](https://www.youtube.com/watch?v=lWzo8CajF5s)
   * [Gradient Descent With Momentum](https://www.youtube.com/watch?v=k8fTYJPd3_I)
   * [RMSProp](https://www.youtube.com/watch?v=_e-LFe_igno)
   * [Adam](https://www.youtube.com/watch?v=JXQT_vxqwIs) (Momentum + RMSprop)
