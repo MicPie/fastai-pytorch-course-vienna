@@ -155,7 +155,7 @@ There are several communication options:
   * **watch the [fastai lesson 7](https://course.fast.ai/videos/?lesson=7) ([hiromis notes lesson 7](https://github.com/hiromis/notes/blob/master/Lesson7.md))**
 * GAN?
   * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
-  * [PyTorch MNSIT GAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist)
+  * [PyTorch MNIST GAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist)
   * [PyTorch DCGAN](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
   * [fastai WGAN notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-wgan.ipynb)
   * [PyTorch Cycle GAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/cycle-gan)
