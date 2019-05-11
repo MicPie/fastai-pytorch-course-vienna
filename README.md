@@ -143,11 +143,11 @@ There are several communication options:
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
 * RNN & NLP?
- * [PyTorch simple RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
- * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
- * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
- * ([word2vec](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings))
- * ([Attention](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention))
+  * [PyTorch simple RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
+  * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
+  * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
+  * ([word2vec](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings))
+  * ([Attention](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention))
 
 
 ## Lesson 7 - ?
