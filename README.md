@@ -142,10 +142,12 @@ There are several communication options:
 ## Lesson 6 - ?
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
-* RNN?
- * ?
- * ?
- * ?
+* RNN & NLP?
+ * [PyTorch simple RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
+ * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
+ * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
+ * ([word2vec](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings))
+ * ([Attention](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention))
 
 
 ## Lesson 7 - ?
@@ -153,8 +155,10 @@ There are several communication options:
   * **watch the [fastai lesson 7](https://course.fast.ai/videos/?lesson=7) ([hiromis notes lesson 7](https://github.com/hiromis/notes/blob/master/Lesson7.md))**
 * GAN?
   * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+  * [PyTorch MNSIT GAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist)
+  * [PyTorch DCGAN](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
   * [fastai WGAN notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-wgan.ipynb)
-  * [GAN in plain PyTorch](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+  * [PyTorch Cycle GAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/cycle-gan)
 
 
 ## General PyTorch Deep Learning ressources
