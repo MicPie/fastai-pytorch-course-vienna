@@ -124,31 +124,37 @@ There are several communication options:
   * **Run the [lesson 4 tabular notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-tabular.ipynb)**
   * **Run the [lesson 5 MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)**
   * **Run the [lesson 6 Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)**
-* [MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)
+* Recap basic training & Co.:
+  * [MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)
+  * [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)
+  * ([MNIST ResNet notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-resnet-mnist.ipynb))
 * fastai usage example at last datathon in Vienna
-* Understanding optimizers:
+* **Optional:** Understanding SGD, RMSProp, and Adam:
   * [Understanding Exponentially Weighted Averages](https://www.youtube.com/watch?v=NxTFlzBjS-4)
   * [Bias Correction of Exponentially Weighted Averages](https://www.youtube.com/watch?v=lWzo8CajF5s)
   * [Gradient Descent With Momentum](https://www.youtube.com/watch?v=k8fTYJPd3_I)
   * [RMSProp](https://www.youtube.com/watch?v=_e-LFe_igno)
   * [Adam](https://www.youtube.com/watch?v=JXQT_vxqwIs) (Momentum + RMSprop)
   * [Link to the slides from the videos above](http://cs230.stanford.edu/files/C2M2.pdf)
-* [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
 ## Lesson 6 - ?
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
-* To be decided soon, see our email. :-)
-* ?
+* RNN?
+ * ?
+ * ?
+ * ?
 
 
 ## Lesson 7 - ?
 * **To dos before the lesson:**
   * **watch the [fastai lesson 7](https://course.fast.ai/videos/?lesson=7) ([hiromis notes lesson 7](https://github.com/hiromis/notes/blob/master/Lesson7.md))**
-* ?
-* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
+* GAN?
+  * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+  * [fastai WGAN notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-wgan.ipynb)
+  * [GAN in plain PyTorch](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 
 
 ## General PyTorch Deep Learning ressources
