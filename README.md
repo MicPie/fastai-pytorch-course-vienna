@@ -123,14 +123,24 @@ There are several communication options:
   * **watch the [fastai lesson 5](https://course.fast.ai/videos/?lesson=5) ([hiromis notes lesson 5](https://github.com/hiromis/notes/blob/master/Lesson5.md))**
   * **Run the [lesson 4 tabular notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-tabular.ipynb)**
   * **Run the [lesson 5 MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)**
-* To be decided soon, see our email. :-)
+  * **Run the [lesson 6 Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)**
+* [MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)
+* [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)
+* fastai usage example at last datathon in Vienna
+* Understanding optimizers:
+  * ([Understanding Exponentially Weighted Averages](https://www.youtube.com/watch?v=NxTFlzBjS-4))
+  * ([Bias Correction of Exponentially Weighted Averages](https://www.youtube.com/watch?v=lWzo8CajF5s))
+  * [Gradient Descent With Momentum](https://www.youtube.com/watch?v=k8fTYJPd3_I)
+  * [RMSProp](https://www.youtube.com/watch?v=_e-LFe_igno)
+  * [Adam](https://www.youtube.com/watch?v=JXQT_vxqwIs) (Momentum + RMSprop)
+  * [Link to the slides from the videos above](http://cs230.stanford.edu/files/C2M2.pdf)
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
 ## Lesson 6 - ?
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
-* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
+* To be decided soon, see our email. :-)
 * ?
 
 
@@ -138,6 +148,7 @@ There are several communication options:
 * **To dos before the lesson:**
   * **watch the [fastai lesson 7](https://course.fast.ai/videos/?lesson=7) ([hiromis notes lesson 7](https://github.com/hiromis/notes/blob/master/Lesson7.md))**
 * ?
+* https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 
 
 ## General PyTorch Deep Learning ressources
