@@ -127,6 +127,7 @@ There are several communication options:
 * Recap basic training & Co.:
   * [MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)
   * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) (see "Visualization of algorithms" section for animations)
+  * [3D loss surface](https://github.com/tomgoldstein/loss-landscape#visualizing-3d-loss-surface) (from [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913))
   * [torch.optim docs](https://pytorch.org/docs/stable/optim.html)
   * [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)
   * ([MNIST ResNet notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-resnet-mnist.ipynb))
