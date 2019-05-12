@@ -123,13 +123,13 @@ There are several communication options:
   * **watch the [fastai lesson 5](https://course.fast.ai/videos/?lesson=5) ([hiromis notes lesson 5](https://github.com/hiromis/notes/blob/master/Lesson5.md))**
   * **Run the [lesson 4 tabular notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-tabular.ipynb)**
   * **Run the [lesson 5 MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)**
-  * **Run the [lesson 6 Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)**
+  * **Have a look at the [lesson 6 Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)**
 * Recap basic training & Co.:
   * [MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)
   * [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)
   * ([MNIST ResNet notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-resnet-mnist.ipynb))
-* fastai usage example at last datathon in Vienna
-* **Optional:** Understanding SGD, RMSProp, and Adam:
+* fastai usage example from last datathon in Vienna
+* *Optional:* Understanding SGD, RMSProp, and Adam:
   * [Understanding Exponentially Weighted Averages](https://www.youtube.com/watch?v=NxTFlzBjS-4)
   * [Bias Correction of Exponentially Weighted Averages](https://www.youtube.com/watch?v=lWzo8CajF5s)
   * [Gradient Descent With Momentum](https://www.youtube.com/watch?v=k8fTYJPd3_I)
@@ -143,6 +143,8 @@ There are several communication options:
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
 * RNN & NLP?
+  * [Understanding-LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * [CMU - 11-785 - Recitation 7	- Recurrent Neural Networks](http://deeplearning.cs.cmu.edu/recitations.spring19/RNN_Recitation.pdf)
   * [PyTorch simple RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
   * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
   * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
@@ -159,6 +161,7 @@ There are several communication options:
   * [PyTorch DCGAN](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
   * [fastai WGAN notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-wgan.ipynb)
   * [PyTorch Cycle GAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/cycle-gan)
+  * And for the very curious see [DFL Wasserstein GAN](http://www.depthfirstlearning.com/2019/WassersteinGAN) (contact Michael if you want to tackle this together)
 
 
 ## General PyTorch Deep Learning ressources
@@ -173,6 +176,7 @@ There are several communication options:
 * [Pytorch torch.einsum](https://rockt.github.io/2018/04/30/einsum) (= the best way to get familiar with matrix calculus and einsum)
 * [PyTorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 * [Advanced PyTorch concepts with code](https://github.com/graykode/projects)
+
 
 ## Deep Learning
 * [The deep learning book (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](https://www.deeplearningbook.org)
