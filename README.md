@@ -123,6 +123,7 @@ There are several communication options:
   * **watch the [fastai lesson 5](https://course.fast.ai/videos/?lesson=5) ([hiromis notes lesson 5](https://github.com/hiromis/notes/blob/master/Lesson5.md))**
   * **Run the [lesson 4 tabular notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson4-tabular.ipynb)**
   * **Run the [lesson 5 MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)**
+  * **Have a look at the [lesson 7 MNIST ResNet notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-resnet-mnist.ipynb)**
   * **Have a look at the [lesson 6 Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb)**
 * Recap basic training & Co.:
   * [MNIST SGD notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson5-sgd-mnist.ipynb)
