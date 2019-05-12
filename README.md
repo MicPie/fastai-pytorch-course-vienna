@@ -130,6 +130,7 @@ There are several communication options:
   * ([MNIST ResNet notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-resnet-mnist.ipynb))
 * fastai usage example from last datathon in Vienna
 * *Optional:* Understanding SGD, RMSProp, and Adam:
+  * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) (see "Visualization of algorithms" section for animations)
   * [Understanding Exponentially Weighted Averages](https://www.youtube.com/watch?v=NxTFlzBjS-4)
   * [Bias Correction of Exponentially Weighted Averages](https://www.youtube.com/watch?v=lWzo8CajF5s)
   * [Gradient Descent With Momentum](https://www.youtube.com/watch?v=k8fTYJPd3_I)
