@@ -132,7 +132,6 @@ There are several communication options:
   * [MNIST ResNet notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-resnet-mnist.ipynb) (see [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) and [Bag of Tricks for Image Classification with CNNs](https://arxiv.org/abs/1812.01187))
   * [3D loss surface with and without ResNet blocks](https://github.com/tomgoldstein/loss-landscape#visualizing-3d-loss-surface) (from [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913))
   * (*Optional:* [Pets revisited notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson6-pets-more.ipynb))
-* fastai usage example from last datathon in Vienna
 * *Optional:* Understanding SGD, RMSProp, and Adam:
   * [Understanding Exponentially Weighted Averages](https://www.youtube.com/watch?v=NxTFlzBjS-4)
   * [Bias Correction of Exponentially Weighted Averages](https://www.youtube.com/watch?v=lWzo8CajF5s)
@@ -146,6 +145,7 @@ There are several communication options:
 ## Lesson 6 - ?
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
+* fastai usage example from last datathon in Vienna?
 * RNN & NLP?
   * [Understanding-LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [CMU - 11-785 - Recitation 7	- Recurrent Neural Networks](http://deeplearning.cs.cmu.edu/recitations.spring19/RNN_Recitation.pdf)
