@@ -148,8 +148,8 @@ There are several communication options:
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
   * **have a look at the [Understanding-LSTMs blog post](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)**
-  * **run the [fastai lesson 3 IMDB notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb))**
-  * **have a look at the [fastai lesson 3 IMDB notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb))**
+  * **run the [fastai lesson 3 IMDB notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)**
+  * **have a look at the [fastai lesson 3 IMDB notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)**
 * RNN
   * [Understanding-LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [CMU - 11-785 - Recitation 7	- Recurrent Neural Networks](http://deeplearning.cs.cmu.edu/recitations.spring19/RNN_Recitation.pdf)
