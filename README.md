@@ -154,12 +154,12 @@ There are several communication options:
   * [Understanding-LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [CMU - 11-785 - Recitation 7	- Recurrent Neural Networks](http://deeplearning.cs.cmu.edu/recitations.spring19/RNN_Recitation.pdf)
   * [PyTorch simple RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
-  * TBD:
-   * [fastai lesson 7 Human Numbers notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-human-numbers.ipynb)
-   * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
-   * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
-   * [word2vec](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings)
-   * [Attention notebook 1](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention) & [Attention notebook 2](https://github.com/MicPie/pytorch/blob/master/attention.ipynb)
+* To be decided:
+  * [fastai lesson 7 Human Numbers notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-human-numbers.ipynb)
+  * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
+  * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
+  * [word2vec](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings)
+  * [Attention notebook 1](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention) & [Attention notebook 2](https://github.com/MicPie/pytorch/blob/master/attention.ipynb)
 * fastai usage example from last datathon in Vienna?
 
 
