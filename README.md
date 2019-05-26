@@ -151,8 +151,8 @@ There are several communication options:
   * **run the [fastai lesson 3 IMDB notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)**
 * RNN
   * [Understanding-LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * [nn.RNN & Co.](https://pytorch.org/docs/stable/nn.html#torch.nn.RNN) ([a simple RNN illustrated](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#creating-the-network))
   * [CMU - 11-785 - Recitation 7	- Recurrent Neural Networks](http://deeplearning.cs.cmu.edu/recitations.spring19/RNN_Recitation.pdf)
-  * [nn.RNN & Co.](https://pytorch.org/docs/stable/nn.html#torch.nn.RNN) ([RNN illustrated](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#creating-the-network))
   * [PyTorch simple RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
   * [Human Numbers notebook Hiromis notes](https://github.com/hiromis/notes/blob/master/Lesson7.md#human-numbers-14311)
   * [fastai lesson 7 Human Numbers notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-human-numbers.ipynb)
