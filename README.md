@@ -144,24 +144,25 @@ There are several communication options:
 * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)
 
 
-## Lesson 6 - RNN
+## Lesson 6 - RNN & Co.
 * **To dos before the lesson:**
   * **watch the [fastai lesson 6](https://course.fast.ai/videos/?lesson=6) ([hiromis notes lesson 6](https://github.com/hiromis/notes/blob/master/Lesson6.md))**
   * **have a look at the [Understanding-LSTMs blog post](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)**
   * **run the [fastai lesson 3 IMDB notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson3-imdb.ipynb)**
-* RNN
+* RNN & Co.
   * [Understanding-LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [nn.RNN & Co.](https://pytorch.org/docs/stable/nn.html#torch.nn.RNN) ([a simple RNN illustrated](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#creating-the-network))
   * [CMU - 11-785 - Recitation 7	- Recurrent Neural Networks](http://deeplearning.cs.cmu.edu/recitations.spring19/RNN_Recitation.pdf)
   * [PyTorch simple RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
   * Language model pretraining shown in the [Human Numbers notebook from Hiromis notes](https://github.com/hiromis/notes/blob/master/Lesson7.md#human-numbers-14311)
   * [fastai lesson 7 Human Numbers notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-human-numbers.ipynb)
-* To be decided:
+* fastai usage example from last datathon in Vienna? BERT?
+* Self-study material:
   * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
   * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
   * [word2vec](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings)
   * [Attention notebook 1](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention) & [Attention notebook 2](https://github.com/MicPie/pytorch/blob/master/attention.ipynb)
-* fastai usage example from last datathon in Vienna?
+
 
 
 ## Lesson 7 - ?
