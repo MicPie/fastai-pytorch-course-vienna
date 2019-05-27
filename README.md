@@ -161,7 +161,7 @@ There are several communication options:
   * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
   * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
   * [word2vec](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings)
-  * [Attention notebook 1](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention) & [Attention notebook 2](https://github.com/MicPie/pytorch/blob/master/attention.ipynb)
+  * [Attention notebook 1](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention) & [Attention notebook 2](https://github.com/MicPie/pytorch/blob/master/attention.ipynb) (Stanford Slides)[https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture08-nmt.pdf]
 
 
 
