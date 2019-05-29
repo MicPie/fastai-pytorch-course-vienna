@@ -154,21 +154,25 @@ There are several communication options:
   * [nn.RNN & Co.](https://pytorch.org/docs/stable/nn.html#torch.nn.RNN) ([a simple RNN illustrated](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#creating-the-network))
   * [CMU - 11-785 - Recitation 7	- Recurrent Neural Networks](http://deeplearning.cs.cmu.edu/recitations.spring19/RNN_Recitation.pdf)
   * [PyTorch simple RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
+  * [nn.Embedding](https://pytorch.org/docs/stable/nn.html#embedding) (see also [Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737))
   * Language model pretraining shown in the [Human Numbers notebook from Hiromis notes](https://github.com/hiromis/notes/blob/master/Lesson7.md#human-numbers-14311)
   * [fastai lesson 7 Human Numbers notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-human-numbers.ipynb)
-* fastai usage example from last datathon in Vienna? BERT?
 * Self-study material:
   * [PyTorch Character-Level LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
   * [PyTorch Sentiment Analysis RNN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
   * [word2vec](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/word2vec-embeddings)
-  * [Attention notebook 1](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention) & [Attention notebook 2](https://github.com/MicPie/pytorch/blob/master/attention.ipynb) (Stanford Slides)[https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture08-nmt.pdf]
+  * [Attention notebook 1](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/attention) & [Attention notebook 2](https://github.com/MicPie/pytorch/blob/master/attention.ipynb) (see also [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#attentional-interfaces) and [CS224n slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture08-nmt.pdf))
 
 
 
-## Lesson 7 - ?
+## Lesson 7 - Practical final lesson
 * **To dos before the lesson:**
   * **watch the [fastai lesson 7](https://course.fast.ai/videos/?lesson=7) ([hiromis notes lesson 7](https://github.com/hiromis/notes/blob/master/Lesson7.md))**
-* GAN?
+  * **Prepare your data and your notebooks so we can use the last 2 h as efficiently as possible!!! See you soon! :-D**
+
+
+## Stuff that did not fit into our schedule:
+* GANs
   * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
   * [PyTorch MNIST GAN](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist)
   * [PyTorch DCGAN](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
