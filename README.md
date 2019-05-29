@@ -168,7 +168,9 @@ There are several communication options:
 ## Lesson 7 - Practical final lesson
 * **To dos before the lesson:**
   * **watch the [fastai lesson 7](https://course.fast.ai/videos/?lesson=7) ([hiromis notes lesson 7](https://github.com/hiromis/notes/blob/master/Lesson7.md))**
-  * **Prepare your data and your notebooks so we can use the last 2 h as efficiently as possible!!! See you soon! :-D**
+  * **Prepare your data and your notebooks so we can use the last 2 h as efficiently as possible.**
+* Open lesson for going through practical applications with the fastai library.
+* What next, how to keep going, and [keep learning](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)!
 
 
 ## Stuff that did not fit into our schedule:
