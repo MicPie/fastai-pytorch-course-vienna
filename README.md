@@ -187,7 +187,6 @@ There are several communication options:
     * Open analysis: Predict startup success by media mentions & comments - https://www.kaggle.com/hacker-news/hacker-news
   * GAN:
     * Create realistic images of the moon: https://www.kaggle.com/romainpessia/artificial-lunar-rocky-landscape-dataset 
-  * Other:
     * Image restoration model (using GAN and fastai 'crapify' idea)
     * Style transfer
 * Open lesson for going through practical applications with the fastai library.
