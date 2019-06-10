@@ -169,6 +169,24 @@ There are several communication options:
 * **To dos before the lesson:**
   * **watch the [fastai lesson 7](https://course.fast.ai/videos/?lesson=7) ([hiromis notes lesson 7](https://github.com/hiromis/notes/blob/master/Lesson7.md))**
   * **Prepare your data and your notebooks so we can use the last 2 h as efficiently as possible.**
+* Datasets ideas:
+  * Tabular data: 
+    * Heart disease classification: https://www.kaggle.com/ronitf/heart-disease-uci
+  * Recommendation System:
+    * Create an Artificial Sommelier: https://www.kaggle.com/zynicide/wine-reviews
+  * Time series:
+    * Suicide prediction: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+  * Computer Vision:
+    * Malaria infection classification: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+    * Dog breed classification: https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
+    * Image segmentation - lunar - https://www.kaggle.com/romainpessia/artificial-lunar-rocky-landscape-dataset
+    * Fruits classification - https://www.kaggle.com/moltean/fruits
+    * Detect the artist, based on the image: https://www.kaggle.com/ikarus777/best-artworks-of-all-time
+  * NLP:
+    * Sarcasm detection: https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
+    * Open analysis: Predict startup success by media mentions & comments - https://www.kaggle.com/hacker-news/hacker-news
+  * GAN:
+    * Create realistic images of the moon: https://www.kaggle.com/romainpessia/artificial-lunar-rocky-landscape-dataset 
 * Open lesson for going through practical applications with the fastai library.
 * What next, how to keep going, and [keep learning](https://github.com/MicPie/fastai-pytorch-course-vienna#learning-tips)!
 
