@@ -18,7 +18,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * 27.05.2019 - Wirtschaftskammer Österreich - Wiedner Hauptstraße 63, 1040 Wien
 * 11.06.2019 - Nic.at - Karlsplatz 1, 1010 Wien
 
-**[--> Please vote for the topics we should cover in detail in the last two lessons! <--](http://www.polljunkie.com/poll/xwfgmq/material-to-cover-in-the-last-2-fastai-pytorch-lessons)**
+**[>> Sign up for the upcoming Fast.ai v3 part 2 in Vienna starting in October! <<](https://docs.google.com/forms/d/e/1FAIpQLScCEnJfFcyLQvT0rGd6HoN4oZf1lAe4ZnfWH1dfnXIQFyAMfQ/viewform)**
 
 
 ## Preparation
@@ -241,6 +241,9 @@ There are several communication options:
 * [Going deeper with convolutions (Inception network)](https://arxiv.org/abs/1409.4842)
 * Everything on https://distill.pub and https://colah.github.io.
 
+## Selected newsletters
+* [Import AI](https://jack-clark.net)
+
 
 ## Possible presentation topics
 Present one topic with a general introduction and PyTorch code in a Jupyter notebook in approx. 10-20 min. Feel free to add the notebooks to this repo.
@@ -275,3 +278,4 @@ Present one topic with a general introduction and PyTorch code in a Jupyter note
   * [(More detailed) Introduction to augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) ([concept outlined for a mathematic example](http://cognitivemedium.com/srs-mathematics))
   * [Spaced repitition in detail](https://www.gwern.net/Spaced-repetition)
   * [Anki spaced repitition flashcard app](https://apps.ankiweb.net)
+* [Remember, a little bit everyday makes the difference!](https://i1.wp.com/www.samuelthomasdavies.com/wp-content/uploads/2014/08/1-Percent-A-Day.png?w=458&ssl=1)
