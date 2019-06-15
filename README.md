@@ -18,7 +18,7 @@ This is the repo for the [Fastai v1 &amp; PyTorch v1 Course in Vienna](https://k
 * 27.05.2019 - Wirtschaftskammer Österreich - Wiedner Hauptstraße 63, 1040 Wien
 * 11.06.2019 - Nic.at - Karlsplatz 1, 1010 Wien
 
-**[>> Sign up for the upcoming Fast.ai v3 part 2 in Vienna starting in October! <<](https://github.com/MicPie/fastai-pytorch-course-vienna-v2)**
+**[--> Sign up for the upcoming fastai PyTorchcourse v2 in Vienna starting in October! <--](https://github.com/MicPie/fastai-pytorch-course-vienna-v2)**
 
 
 ## Preparation
